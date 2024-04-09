@@ -23,7 +23,7 @@ Welcome to the BMI Calculator GUI project! This project provides a simple Graphi
 2. **Install Dependencies:** Ensure you have Python installed on your machine. Additionally, you need to have the Tkinter library installed, which is usually included in standard Python installations.
 
 3. **Run the Application:** Navigate to the project directory and run the following command:
-> ```python bmi_calculator.py```
+> ```python app.py```
 
 
 4. **Input Height and Weight:** Enter your height (in meters) and weight (in kilograms) in the respective input fields.
